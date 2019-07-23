@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'greenville.dreamhost.com',
+	'hostname' => 'mysql.sallyra.dreamhosters.com',
 	'username' => 'sm19sra',
 	'password' => 'Haha2020Haha^^',
 	'database' => 'sra_sm_19',

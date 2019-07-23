@@ -31,6 +31,7 @@ class News_model extends CI_Model {
                         'text' => $this->input->post('text')
                 );
 
-                return $this->db->insert('news', $data);
+                return $this->db->insert('sm19_news', $data);
         }
+
 }

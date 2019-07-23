@@ -1,5 +1,5 @@
 <?php
 // application/views/news/success.php
-
-echo("Success!");
 ?>
+<h1>Victory!</h1>
+<p>Mission Accomplished.</p>
